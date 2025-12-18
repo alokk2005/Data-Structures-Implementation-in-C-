@@ -33,8 +33,8 @@ The project is **menu-driven**, making it easy to use and ideal for **learning, 
 ## ⚙️ Technologies Used
 - **Programming Language:** C++
 - **Compiler:** GCC
-- **IDE:** VS Code / CodeBlocks
-- **Platform:** Windows / Linux
+- **IDE:** Clion
+- **Platform:** Windows 
 
 ---
 
